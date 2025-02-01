@@ -1,6 +1,6 @@
 # Transformer-Based LLM Model Architectures
 
-![1738209185618](image/education/1738209185618.png)
+![1738209185618](image/1738209185618.png)
 
 1. **Input Embeddings**: The input text is **tokenized into smaller units**, such as words or sub-words, and **each token is embedded into a continuous vector representation**. This embedding step **captures the semantic and syntactic information** of the input.
 2. **Positional Encoding**: Positional encoding is added to the input embeddings to **provide information about the positions of the tokens** because transformers do not naturally encode the order of the tokens. This enables the model to **process the tokens while taking their sequential order into account**.

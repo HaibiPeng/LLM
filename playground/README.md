@@ -66,3 +66,4 @@ It was really hard to generate suitable dataset and fine-tune the LLM locally. T
 4. [https://ollama.com/library/llama3.2/blobs/dde5aa3fc5ff](https://ollama.com/library/llama3.2/blobs/dde5aa3fc5ff)
 5. [https://huggingface.co/Qwen/Qwen2.5-1.5B](https://huggingface.co/Qwen/Qwen2.5-1.5B)
 6. [https://stackoverflow.com/questions/78248012/failure-running-apple-mlx-lora-py-on-13b-llms](https://stackoverflow.com/questions/78248012/failure-running-apple-mlx-lora-py-on-13b-llms)
+7. [https://www.reddit.com/r/LocalLLaMA/comments/18wabkc/lessons_learned_so_far_lora_fine_tuning_on/](https://www.reddit.com/r/LocalLLaMA/comments/18wabkc/lessons_learned_so_far_lora_fine_tuning_on/)

@@ -89,15 +89,6 @@ This concept is **profoundly significant for large language models (LLMs)** and 
 
 ---
 
-### **Example: Word Embeddings in Practice**
-
-- **Embedding Matrix**:
-  A 50,000-token vocabulary with 1024D embeddings can represent all tokens as nearly orthogonal vectors. Despite overlaps, the model disentangles them via attention and nonlinearities.
-- **Polysemy Handling**:
-  The word "bat" might be a superposition of vectors for "animal," "sports equipment," and "vampire," with context determining the active component.
-
----
-
 ### **Why This Matters for LLMs**
 
 - **Efficiency**: Enables compact representation of exponentially many features.

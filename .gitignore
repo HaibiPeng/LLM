@@ -1,0 +1,4 @@
+playground/bin
+playground/lib
+playground/lora/mlx_model/model.safetensors
+playground/lora/Qwen2.5-1.5B/model.safetensors
